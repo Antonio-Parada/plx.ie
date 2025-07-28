@@ -1,1 +1,1 @@
-feat: Add more detailed content to Projects section
+feat: Add custom 404 page
