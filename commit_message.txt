@@ -1,1 +1,1 @@
-feat: Add more detailed case studies to Clients section
+feat: Add more detailed content to Projects section
