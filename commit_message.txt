@@ -1,1 +1,1 @@
-feat: Add documentation section and menu entry
+feat: Add finance and marketing sections and menu entries

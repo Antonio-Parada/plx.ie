@@ -21,3 +21,11 @@ theme = "ananke"
     name = "Docs"
     url = "/docs/"
     weight = 50
+  [[menu.main]]
+    name = "Finance"
+    url = "/finance/"
+    weight = 60
+  [[menu.main]]
+    name = "Marketing"
+    url = "/marketing/"
+    weight = 70
