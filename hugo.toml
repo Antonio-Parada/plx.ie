@@ -75,3 +75,12 @@ theme = "ananke"
     name = "Contact Us"
     url = "/contact/"
     weight = 80
+
+  [[menu.footer]]
+    name = "Terms of Service"
+    url = "/terms-of-service/"
+    weight = 10
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 20
