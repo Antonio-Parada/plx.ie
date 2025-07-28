@@ -1,1 +1,1 @@
-feat: Add blog section and first blog post
+feat: Add internal guidelines to documentation
