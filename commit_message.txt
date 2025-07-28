@@ -1,1 +1,1 @@
-feat: Add Contact Us page and menu entry
+feat: Add more detailed content to Services section
