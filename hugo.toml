@@ -26,6 +26,26 @@ theme = "ananke"
     url = "/docs/"
     weight = 50
   [[menu.main]]
+    name = "Getting Started"
+    url = "/docs/getting-started/"
+    parent = "Docs"
+    weight = 51
+  [[menu.main]]
+    name = "Internal Guidelines"
+    url = "/docs/internal/"
+    parent = "Docs"
+    weight = 52
+  [[menu.main]]
+    name = "Operational Processes"
+    url = "/docs/processes/"
+    parent = "Docs"
+    weight = 53
+  [[menu.main]]
+    name = "Security Best Practices"
+    url = "/docs/security/"
+    parent = "Docs"
+    weight = 54
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
     weight = 55
