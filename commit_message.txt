@@ -1,1 +1,1 @@
-feat: Add new blog post (ShopSphere case study)
+feat: Add Press Releases to Marketing section and menu
