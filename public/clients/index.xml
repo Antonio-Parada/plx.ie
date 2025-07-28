@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clients on </title>
-    <link>/clients/</link>
-    <description>Recent content in Clients on </description>
+    <title>Clients on PLX.IE - Powering Your Digital Future</title>
+    <link>https://antonio-parada.github.io/plx.ie/clients/</link>
+    <description>Recent content in Clients on PLX.IE - Powering Your Digital Future</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/clients/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://antonio-parada.github.io/plx.ie/clients/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Clients</title>
-      <link>/clients/clients/</link>
+      <link>https://antonio-parada.github.io/plx.ie/clients/clients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/clients/clients/</guid>
+      <guid>https://antonio-parada.github.io/plx.ie/clients/clients/</guid>
       <description>&lt;h1 id=&#34;trusted-by-industry-leaders&#34;&gt;Trusted by Industry Leaders&lt;/h1&gt;&#xA;&lt;p&gt;We are proud to partner with a diverse range of companies, from innovative startups to established enterprises. Here are a few of our valued clients and how PLX.IE has helped them achieve their goals.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;innovatenow-corp&#34;&gt;&lt;strong&gt;InnovateNow Corp.&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Industry:&lt;/strong&gt; SaaS (Software as a Service)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; InnovateNow Corp. was experiencing rapid growth, leading to scalability issues with their existing infrastructure. They needed a solution that could handle fluctuating user loads, ensure high availability, and streamline their development and deployment processes.&lt;/p&gt;</description>
     </item>
   </channel>

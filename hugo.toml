@@ -1,4 +1,10 @@
+baseURL = "https://antonio-parada.github.io/plx.ie/"
+languageCode = "en-us"
+title = "PLX.IE - Powering Your Digital Future"
 theme = "ananke"
+
+[params]
+  custom_css = ["css/custom.css"]
 
 [menu]
   [[menu.main]]
@@ -95,5 +101,6 @@ theme = "ananke"
     url = "/privacy-policy/"
     weight = 20
 
-[params]
-  custom_css = ["css/custom.css"]
+[params.opengraph]
+  image = "/images/plx-og-image.jpg"
+  description = "PLX.IE: Powering Your Digital Future with scalable cloud infrastructure and web services."

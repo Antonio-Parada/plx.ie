@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Blog on </title>
-    <link>/blog/</link>
-    <description>Recent content in Our Blog on </description>
+    <title>Our Blog on PLX.IE - Powering Your Digital Future</title>
+    <link>https://antonio-parada.github.io/plx.ie/blog/</link>
+    <description>Recent content in Our Blog on PLX.IE - Powering Your Digital Future</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2025 10:00:00 +0000</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://antonio-parada.github.io/plx.ie/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Future of Serverless: Project Nova Unveiled</title>
-      <link>/blog/project-nova-unveiled/</link>
+      <link>https://antonio-parada.github.io/plx.ie/blog/project-nova-unveiled/</link>
       <pubDate>Mon, 28 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>/blog/project-nova-unveiled/</guid>
+      <guid>https://antonio-parada.github.io/plx.ie/blog/project-nova-unveiled/</guid>
       <description>&lt;h2 id=&#34;revolutionizing-function-execution-with-plxies-next-gen-engine&#34;&gt;Revolutionizing Function Execution with PLX.IE&amp;rsquo;s Next-Gen Engine&lt;/h2&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;re thrilled to pull back the curtain on &lt;strong&gt;Project Nova&lt;/strong&gt;, our groundbreaking initiative to redefine serverless computing. For too long, the promise of serverless has been hampered by the persistent challenge of &amp;ldquo;cold starts&amp;rdquo; – the delay experienced when a function is invoked for the first time or after a period of inactivity. Project Nova is engineered to virtually eliminate this bottleneck, ushering in a new era of instantaneous function execution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PLX.IE Powers Global E-commerce Leader ShopSphere Online</title>
-      <link>/blog/shopsphere-case-study/</link>
+      <link>https://antonio-parada.github.io/plx.ie/blog/shopsphere-case-study/</link>
       <pubDate>Sun, 20 Jul 2025 14:30:00 +0000</pubDate>
-      <guid>/blog/shopsphere-case-study/</guid>
+      <guid>https://antonio-parada.github.io/plx.ie/blog/shopsphere-case-study/</guid>
       <description>&lt;h2 id=&#34;a-case-study-in-scalability-and-reliability-with-managed-kubernetes&#34;&gt;A Case Study in Scalability and Reliability with Managed Kubernetes&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to announce the successful migration and ongoing partnership with &lt;strong&gt;ShopSphere Online&lt;/strong&gt;, a leading global e-commerce platform. ShopSphere faced significant challenges with their previous infrastructure, struggling to maintain performance and reliability during peak shopping seasons. PLX.IE&amp;rsquo;s Managed Kubernetes (K8s) solution proved to be the game-changer they needed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-challenge-scaling-under-pressure&#34;&gt;The Challenge: Scaling Under Pressure&lt;/h3&gt;&#xA;&lt;p&gt;ShopSphere&amp;rsquo;s rapid growth led to a common problem for e-commerce businesses: their monolithic application was not designed to handle the massive, unpredictable traffic spikes associated with sales events like Black Friday and Cyber Monday. This resulted in:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Helios: Revolutionizing Kubernetes Autoscaling with AI</title>
-      <link>/blog/helios-autoscaler/</link>
+      <link>https://antonio-parada.github.io/plx.ie/blog/helios-autoscaler/</link>
       <pubDate>Thu, 10 Jul 2025 09:00:00 +0000</pubDate>
-      <guid>/blog/helios-autoscaler/</guid>
+      <guid>https://antonio-parada.github.io/plx.ie/blog/helios-autoscaler/</guid>
       <description>&lt;h2 id=&#34;proactive-resource-management-for-optimal-performance-and-cost-efficiency&#34;&gt;Proactive Resource Management for Optimal Performance and Cost Efficiency&lt;/h2&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;re diving deeper into &lt;strong&gt;Helios&lt;/strong&gt;, PLX.IE&amp;rsquo;s open-source Kubernetes autoscaler that&amp;rsquo;s changing the game for cloud resource management. In the dynamic world of containerized applications, ensuring optimal performance while controlling costs is a constant balancing act. Helios addresses this challenge head-on by moving beyond reactive scaling to a proactive, intelligent approach.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-limitations-of-reactive-autoscaling&#34;&gt;The Limitations of Reactive Autoscaling&lt;/h3&gt;&#xA;&lt;p&gt;Traditional Kubernetes autoscalers typically react to current CPU or memory utilization. While effective to a degree, this reactive model often leads to a lag between demand spikes and resource allocation. This can result in:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unlocking the Power of Data: The PLX.IE Data Lake Storage Solution</title>
-      <link>/blog/data-lake-storage/</link>
+      <link>https://antonio-parada.github.io/plx.ie/blog/data-lake-storage/</link>
       <pubDate>Sat, 05 Jul 2025 11:00:00 +0000</pubDate>
-      <guid>/blog/data-lake-storage/</guid>
+      <guid>https://antonio-parada.github.io/plx.ie/blog/data-lake-storage/</guid>
       <description>&lt;h2 id=&#34;beyond-the-data-warehouse-why-a-data-lake-is-essential-for-modern-enterprises&#34;&gt;Beyond the Data Warehouse: Why a Data Lake is Essential for Modern Enterprises&lt;/h2&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s data-driven world, businesses are grappling with an ever-increasing volume, velocity, and variety of data. While traditional data warehouses have served us well for structured data, they often fall short when it comes to handling the diverse and unstructured data types that are becoming increasingly prevalent. This is where the concept of a &lt;strong&gt;Data Lake&lt;/strong&gt; emerges as a powerful solution, and at PLX.IE, we&amp;rsquo;re committed to providing a robust and scalable Data Lake Storage offering to help you unlock the full potential of your data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accelerating Innovation: The PLX.IE AI Model Training Platform</title>
-      <link>/blog/ai-model-training-platform/</link>
+      <link>https://antonio-parada.github.io/plx.ie/blog/ai-model-training-platform/</link>
       <pubDate>Tue, 01 Jul 2025 08:00:00 +0000</pubDate>
-      <guid>/blog/ai-model-training-platform/</guid>
+      <guid>https://antonio-parada.github.io/plx.ie/blog/ai-model-training-platform/</guid>
       <description>&lt;h2 id=&#34;empowering-developers-and-data-scientists-to-build-and-deploy-ai-at-scale&#34;&gt;Empowering Developers and Data Scientists to Build and Deploy AI at Scale&lt;/h2&gt;&#xA;&lt;p&gt;Artificial Intelligence and Machine Learning are no longer futuristic concepts; they are essential tools driving innovation across every industry. At PLX.IE, we understand the complexities involved in developing and deploying AI models, which is why we&amp;rsquo;ve built a comprehensive &lt;strong&gt;AI Model Training Platform&lt;/strong&gt; designed to accelerate your AI journey from experimentation to production.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-challenges-of-ai-development&#34;&gt;The Challenges of AI Development&lt;/h3&gt;&#xA;&lt;p&gt;Building and deploying AI models can be resource-intensive and complex. Data scientists and developers often face hurdles such as:&lt;/p&gt;</description>
     </item>
   </channel>
