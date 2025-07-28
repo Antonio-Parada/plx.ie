@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on </title>
+    <link>/docs/</link>
+    <description>Recent content in Documentation on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with PLX.IE</title>
+      <link>/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/getting-started/</guid>
+      <description>&lt;h1 id=&#34;your-journey-to-the-cloud-starts-here&#34;&gt;Your Journey to the Cloud Starts Here&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to PLX.IE! This guide will help you set up your account, deploy your first application, and begin leveraging our powerful cloud services.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-account-setup&#34;&gt;1. Account Setup&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-create-your-account&#34;&gt;&lt;strong&gt;1.1 Create Your Account&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Visit our &lt;a href=&#34;https://plx.ie/signup&#34;&gt;sign-up page&lt;/a&gt; and follow the prompts to create your PLX.IE account. You&amp;rsquo;ll need a valid email address and a strong password.&lt;/p&gt;&#xA;&lt;h3 id=&#34;12-verify-your-email&#34;&gt;&lt;strong&gt;1.2 Verify Your Email&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;After signing up, a verification email will be sent to your registered address. Click the link in the email to activate your account.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

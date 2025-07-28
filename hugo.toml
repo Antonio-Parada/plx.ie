@@ -17,3 +17,7 @@ theme = "ananke"
     name = "Clients"
     url = "/clients/"
     weight = 40
+  [[menu.main]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 50

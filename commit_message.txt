@@ -1,1 +1,1 @@
-feat: Add navigation menu to Hugo site
+feat: Add documentation section and menu entry
