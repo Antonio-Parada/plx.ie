@@ -1,1 +1,1 @@
-feat: Add Press Releases to Marketing section and menu
+feat: Add new blog post (Helios autoscaler)

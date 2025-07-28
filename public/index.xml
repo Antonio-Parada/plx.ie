@@ -23,6 +23,13 @@
       <description>&lt;h2 id=&#34;a-case-study-in-scalability-and-reliability-with-managed-kubernetes&#34;&gt;A Case Study in Scalability and Reliability with Managed Kubernetes&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to announce the successful migration and ongoing partnership with &lt;strong&gt;ShopSphere Online&lt;/strong&gt;, a leading global e-commerce platform. ShopSphere faced significant challenges with their previous infrastructure, struggling to maintain performance and reliability during peak shopping seasons. PLX.IE&amp;rsquo;s Managed Kubernetes (K8s) solution proved to be the game-changer they needed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-challenge-scaling-under-pressure&#34;&gt;The Challenge: Scaling Under Pressure&lt;/h3&gt;&#xA;&lt;p&gt;ShopSphere&amp;rsquo;s rapid growth led to a common problem for e-commerce businesses: their monolithic application was not designed to handle the massive, unpredictable traffic spikes associated with sales events like Black Friday and Cyber Monday. This resulted in:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Helios: Revolutionizing Kubernetes Autoscaling with AI</title>
+      <link>/blog/helios-autoscaler/</link>
+      <pubDate>Thu, 10 Jul 2025 09:00:00 +0000</pubDate>
+      <guid>/blog/helios-autoscaler/</guid>
+      <description>&lt;h2 id=&#34;proactive-resource-management-for-optimal-performance-and-cost-efficiency&#34;&gt;Proactive Resource Management for Optimal Performance and Cost Efficiency&lt;/h2&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;re diving deeper into &lt;strong&gt;Helios&lt;/strong&gt;, PLX.IE&amp;rsquo;s open-source Kubernetes autoscaler that&amp;rsquo;s changing the game for cloud resource management. In the dynamic world of containerized applications, ensuring optimal performance while controlling costs is a constant balancing act. Helios addresses this challenge head-on by moving beyond reactive scaling to a proactive, intelligent approach.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-limitations-of-reactive-autoscaling&#34;&gt;The Limitations of Reactive Autoscaling&lt;/h3&gt;&#xA;&lt;p&gt;Traditional Kubernetes autoscalers typically react to current CPU or memory utilization. While effective to a degree, this reactive model often leads to a lag between demand spikes and resource allocation. This can result in:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title></title>
       <link>/services/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
