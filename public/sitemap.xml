@@ -8,8 +8,20 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/clients/</loc>
+  </url><url>
+    <loc>/clients/clients/</loc>
+  </url><url>
+    <loc>/projects/projects/</loc>
+  </url><url>
+    <loc>/team/team/</loc>
+  </url><url>
+    <loc>/projects/</loc>
+  </url><url>
     <loc>/services/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/team/</loc>
   </url>
 </urlset>

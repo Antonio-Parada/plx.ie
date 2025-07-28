@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Projects</title>
+      <link>/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/projects/</guid>
+      <description>&lt;h1 id=&#34;innovations-at-plxie&#34;&gt;Innovations at PLX.IE&lt;/h1&gt;&#xA;&lt;p&gt;We are constantly pushing the boundaries of what&amp;rsquo;s possible in cloud computing. Here are a few of our key internal and open-source projects.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;project-nova-next-gen-serverless-engine&#34;&gt;&lt;strong&gt;Project Nova: Next-Gen Serverless Engine&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; In Development&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Project Nova is our initiative to build a faster, more efficient, and more secure serverless computing platform. By leveraging a lightweight micro-VM architecture, Nova aims to reduce cold start times by up to 90% and provide a more secure sandboxed environment for function execution.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

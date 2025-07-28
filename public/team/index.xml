@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on </title>
+    <link>/team/</link>
+    <description>Recent content in Team on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Team</title>
+      <link>/team/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/team/team/</guid>
+      <description>&lt;h1 id=&#34;the-people-behind-plxie&#34;&gt;The People Behind PLX.IE&lt;/h1&gt;&#xA;&lt;p&gt;At PLX.IE, our strength lies in our team of dedicated and passionate professionals. We bring together a diverse range of skills and experience to build the future of cloud infrastructure.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;eleanor-vance---ceo--founder&#34;&gt;&lt;strong&gt;Eleanor Vance&lt;/strong&gt; - CEO &amp;amp; Founder&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; With over 20 years of experience in software engineering and cloud architecture, Eleanor founded PLX.IE with a vision to simplify and democratize access to high-performance computing. Her leadership drives our commitment to innovation and customer success.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
