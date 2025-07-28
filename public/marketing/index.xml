@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="/marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Marketing Case Studies</title>
+      <link>/marketing/case-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/marketing/case-studies/</guid>
+      <description>&lt;h1 id=&#34;real-world-impact-plxie-marketing-case-studies&#34;&gt;Real-World Impact: PLX.IE Marketing Case Studies&lt;/h1&gt;&#xA;&lt;p&gt;Our marketing efforts are driven by the success of our clients. These case studies highlight how PLX.IE&amp;rsquo;s services have enabled businesses to achieve significant growth, efficiency, and innovation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;case-study-scaling-e-commerce-operations-with-managed-kubernetes&#34;&gt;&lt;strong&gt;Case Study: Scaling E-commerce Operations with Managed Kubernetes&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Client:&lt;/strong&gt; &lt;em&gt;ShopSphere Online&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; ShopSphere, a rapidly expanding e-commerce platform, faced challenges with scalability and reliability during peak shopping seasons. Their monolithic application struggled to handle sudden traffic surges, leading to downtime and lost revenue.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Marketing Strategy</title>
       <link>/marketing/strategy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
