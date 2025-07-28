@@ -94,3 +94,6 @@ theme = "ananke"
     name = "Privacy Policy"
     url = "/privacy-policy/"
     weight = 20
+
+[params]
+  custom_css = ["css/custom.css"]

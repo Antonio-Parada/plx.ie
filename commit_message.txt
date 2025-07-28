@@ -1,1 +1,1 @@
-feat: Add new blog post (AI Model Training Platform)
+feat: Add favicon, custom CSS, and hero image
