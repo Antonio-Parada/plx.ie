@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2025-07-28T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/project-nova-unveiled/</loc>
+    <lastmod>2025-07-28T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-07-28T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>/services/services/</loc>
   </url><url>
     <loc>/about/</loc>
@@ -39,7 +48,5 @@
     <loc>/tags/</loc>
   </url><url>
     <loc>/team/</loc>
-  </url><url>
-    <loc>/</loc>
   </url>
 </urlset>

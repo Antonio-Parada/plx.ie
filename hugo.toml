@@ -26,6 +26,10 @@ theme = "ananke"
     url = "/docs/"
     weight = 50
   [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 55
+  [[menu.main]]
     name = "Finance"
     url = "/finance/"
     weight = 60

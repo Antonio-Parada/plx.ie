@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Blog on </title>
+    <link>/blog/</link>
+    <description>Recent content in Our Blog on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Jul 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Serverless: Project Nova Unveiled</title>
+      <link>/blog/project-nova-unveiled/</link>
+      <pubDate>Mon, 28 Jul 2025 10:00:00 +0000</pubDate>
+      <guid>/blog/project-nova-unveiled/</guid>
+      <description>&lt;h2 id=&#34;revolutionizing-function-execution-with-plxies-next-gen-engine&#34;&gt;Revolutionizing Function Execution with PLX.IE&amp;rsquo;s Next-Gen Engine&lt;/h2&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;re thrilled to pull back the curtain on &lt;strong&gt;Project Nova&lt;/strong&gt;, our groundbreaking initiative to redefine serverless computing. For too long, the promise of serverless has been hampered by the persistent challenge of &amp;ldquo;cold starts&amp;rdquo; – the delay experienced when a function is invoked for the first time or after a period of inactivity. Project Nova is engineered to virtually eliminate this bottleneck, ushering in a new era of instantaneous function execution.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

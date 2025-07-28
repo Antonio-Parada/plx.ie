@@ -1,1 +1,1 @@
-feat: Add custom 404 page
+feat: Add blog section and first blog post
