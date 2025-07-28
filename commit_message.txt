@@ -1,1 +1,1 @@
-feat: Add finance and marketing sections and menu entries
+feat: Add homepage and About Us page
