@@ -1,1 +1,1 @@
-feat: Add homepage and About Us page
+feat: Add Contact Us page and menu entry

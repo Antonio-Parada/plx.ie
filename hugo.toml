@@ -33,3 +33,7 @@ theme = "ananke"
     name = "Marketing"
     url = "/marketing/"
     weight = 70
+  [[menu.main]]
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 80
