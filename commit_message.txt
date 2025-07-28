@@ -1,1 +1,1 @@
-feat: Add favicon and ensure visual assets are correctly linked
+feat: Add Events section and menu entry

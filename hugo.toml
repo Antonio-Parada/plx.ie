@@ -32,6 +32,10 @@ theme = "ananke"
     url = "/careers/"
     weight = 46
   [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 47
+  [[menu.main]]
     name = "Docs"
     url = "/docs/"
     weight = 50
