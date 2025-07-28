@@ -1,1 +1,1 @@
-feat: Add nested menu items for Finance and Marketing
+feat: Add security best practices to documentation
