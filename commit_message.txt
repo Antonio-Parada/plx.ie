@@ -1,1 +1,1 @@
-feat: Add Press Kit to Marketing section and menu
+feat: Add new blog post (Data Lake Storage)
