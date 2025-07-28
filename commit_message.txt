@@ -1,1 +1,1 @@
-feat: Add more detailed content to Services section
+feat: Add more detailed bios to Team section
