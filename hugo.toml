@@ -1,1 +1,19 @@
 theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 10
+  [[menu.main]]
+    name = "Team"
+    url = "/team/"
+    weight = 20
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 30
+  [[menu.main]]
+    name = "Clients"
+    url = "/clients/"
+    weight = 40
