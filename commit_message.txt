@@ -1,1 +1,1 @@
-feat: Add nested menu items for Documentation
+feat: Add Careers page and menu entry
