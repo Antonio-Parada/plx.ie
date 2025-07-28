@@ -34,9 +34,19 @@ theme = "ananke"
     url = "/finance/"
     weight = 60
   [[menu.main]]
+    name = "Investor Relations"
+    url = "/finance/investor-relations/"
+    parent = "Finance"
+    weight = 61
+  [[menu.main]]
     name = "Marketing"
     url = "/marketing/"
     weight = 70
+  [[menu.main]]
+    name = "Case Studies"
+    url = "/marketing/case-studies/"
+    parent = "Marketing"
+    weight = 71
   [[menu.main]]
     name = "Contact Us"
     url = "/contact/"

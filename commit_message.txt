@@ -1,1 +1,1 @@
-feat: Add investor relations content
+feat: Add nested menu items for Finance and Marketing
