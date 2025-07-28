@@ -1,1 +1,1 @@
-feat: Add new blog post (Data Lake Storage)
+feat: Add new blog post (AI Model Training Platform)
