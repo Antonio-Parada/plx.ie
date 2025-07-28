@@ -15,5 +15,12 @@
       <guid>/blog/project-nova-unveiled/</guid>
       <description>&lt;h2 id=&#34;revolutionizing-function-execution-with-plxies-next-gen-engine&#34;&gt;Revolutionizing Function Execution with PLX.IE&amp;rsquo;s Next-Gen Engine&lt;/h2&gt;&#xA;&lt;p&gt;Today, we&amp;rsquo;re thrilled to pull back the curtain on &lt;strong&gt;Project Nova&lt;/strong&gt;, our groundbreaking initiative to redefine serverless computing. For too long, the promise of serverless has been hampered by the persistent challenge of &amp;ldquo;cold starts&amp;rdquo; – the delay experienced when a function is invoked for the first time or after a period of inactivity. Project Nova is engineered to virtually eliminate this bottleneck, ushering in a new era of instantaneous function execution.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>PLX.IE Powers Global E-commerce Leader ShopSphere Online</title>
+      <link>/blog/shopsphere-case-study/</link>
+      <pubDate>Sun, 20 Jul 2025 14:30:00 +0000</pubDate>
+      <guid>/blog/shopsphere-case-study/</guid>
+      <description>&lt;h2 id=&#34;a-case-study-in-scalability-and-reliability-with-managed-kubernetes&#34;&gt;A Case Study in Scalability and Reliability with Managed Kubernetes&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to announce the successful migration and ongoing partnership with &lt;strong&gt;ShopSphere Online&lt;/strong&gt;, a leading global e-commerce platform. ShopSphere faced significant challenges with their previous infrastructure, struggling to maintain performance and reliability during peak shopping seasons. PLX.IE&amp;rsquo;s Managed Kubernetes (K8s) solution proved to be the game-changer they needed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-challenge-scaling-under-pressure&#34;&gt;The Challenge: Scaling Under Pressure&lt;/h3&gt;&#xA;&lt;p&gt;ShopSphere&amp;rsquo;s rapid growth led to a common problem for e-commerce businesses: their monolithic application was not designed to handle the massive, unpredictable traffic spikes associated with sales events like Black Friday and Cyber Monday. This resulted in:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

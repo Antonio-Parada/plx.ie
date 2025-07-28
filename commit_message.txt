@@ -1,1 +1,1 @@
-feat: Add Terms of Service and Privacy Policy
+feat: Add new blog post (ShopSphere case study)
