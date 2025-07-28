@@ -77,6 +77,11 @@ theme = "ananke"
     parent = "Marketing"
     weight = 72
   [[menu.main]]
+    name = "Press Kit"
+    url = "/marketing/press-kit/"
+    parent = "Marketing"
+    weight = 73
+  [[menu.main]]
     name = "Contact Us"
     url = "/contact/"
     weight = 80

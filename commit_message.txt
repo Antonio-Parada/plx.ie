@@ -1,1 +1,1 @@
-feat: Add new blog post (Helios autoscaler)
+feat: Add Press Kit to Marketing section and menu
