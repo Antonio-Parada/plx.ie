@@ -1,1 +1,1 @@
-feat: Add more detailed bios to Team section
+feat: Add more detailed case studies to Clients section
